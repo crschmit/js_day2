@@ -1,0 +1,9 @@
+{
+  "name": "js_day2",
+  "version": "1.0.0",
+  "description": "FastTrackD Javascript Day 2",
+  "main": "main.js",
+  "repository": "https://github.com/crschmit/js_day2.git",
+  "author": "Christian Schmitt",
+  "license": "MIT"
+}
